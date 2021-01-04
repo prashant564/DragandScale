@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "853372239065",
+    "firebase_url": "https://authenticationapp-dc3b6.firebaseio.com",
+    "project_id": "authenticationapp-dc3b6",
+    "storage_bucket": "authenticationapp-dc3b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853372239065:android:df76f3f63c0a1f1cb192c8",
+        "android_client_info": {
+          "package_name": "com.prashD.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853372239065-3hheiulb34m4ug0d19h3umko1mao7add.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prashD.authentication",
+            "certificate_hash": "7d5462e0a0e25a9cbd5ab895106563ca2a48f3b3"
+          }
+        },
+        {
+          "client_id": "853372239065-lpade9ltkubifa2n8s9s859m488d355f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIan0DOE3OBnOZRfmYW6gJWGwo4yvKiMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853372239065-lpade9ltkubifa2n8s9s859m488d355f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
